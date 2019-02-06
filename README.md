@@ -1,2 +1,2 @@
-# Python Personal
-Interested with working on Selenium and BeautifulSoup
+# Python Personal Projects
+Worked on Selenium and BeautifulSoup
